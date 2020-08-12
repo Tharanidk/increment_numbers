@@ -1,0 +1,31 @@
+.app {
+  min-height: 100vh;
+  background: lightblue;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  
+}
+
+
+.Hello {
+  height: 300px;
+  width: 300px;
+ border : 2px solid black;
+ background: white;
+ border-radius: 30px;
+ display :flex;
+ flex-direction: column;
+ justify-content: space-around;
+ align-items: center;
+}
+
+.red{
+  color: red;
+  font-size: 50px;
+}
+
+.blue{
+  color: blue;
+  font-size: 20px;
+}
